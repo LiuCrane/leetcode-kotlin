@@ -1,3 +1,5 @@
+package stackandqueue
+
 import java.util.*
 import kotlin.math.max
 

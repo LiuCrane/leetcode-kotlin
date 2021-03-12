@@ -1,3 +1,5 @@
+package sort
+
 class SortColors {
     fun sortColors(nums: IntArray): Unit {
         nums.forEach {

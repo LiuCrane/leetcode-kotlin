@@ -1,7 +1,5 @@
 package linkedList
 
-import linkedList.ListNode
-
 class removeNthLastNode {
     fun removeNthFromEnd(head: ListNode?, n: Int): ListNode? {
         var last = n

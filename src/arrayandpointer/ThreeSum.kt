@@ -1,3 +1,5 @@
+package arrayandpointer
+
 class ThreeSum {
     fun threeSum(nums: IntArray): List<List<Int>> {
         val result = mutableListOf<List<Int>>()

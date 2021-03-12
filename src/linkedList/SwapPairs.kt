@@ -1,7 +1,5 @@
 package linkedList
 
-import linkedList.ListNode
-
 class SwapPairs {
     fun swapPairs(head: ListNode?): ListNode? {
         if (head?.next == null) return head

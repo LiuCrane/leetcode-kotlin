@@ -1,7 +1,5 @@
 package linkedList
 
-import linkedList.ListNode
-
 class GetIntersectionNode {
     fun getIntersectionNode(headA: ListNode?, headB: ListNode?): ListNode? {
         var link1 = headA

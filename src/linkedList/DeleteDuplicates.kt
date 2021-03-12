@@ -1,7 +1,5 @@
 package linkedList
 
-import linkedList.ListNode
-
 class DeleteDuplicates {
     fun deleteDuplicates(head: ListNode?): ListNode? {
         if (head?.next == null) return head

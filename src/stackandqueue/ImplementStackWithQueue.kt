@@ -1,3 +1,5 @@
+package stackandqueue
+
 import java.util.LinkedList
 
 class ImplementStackWithQueue {

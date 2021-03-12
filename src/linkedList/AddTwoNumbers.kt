@@ -1,4 +1,5 @@
-import linkedList.ListNode
+package linkedList
+
 import java.util.*
 
 class AddTwoNumbers {

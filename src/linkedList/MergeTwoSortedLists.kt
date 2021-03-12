@@ -1,7 +1,5 @@
 package linkedList
 
-import linkedList.ListNode
-
 class MergeTwoSortedLists {
     fun mergeTwoLists(l1: ListNode?, l2: ListNode?): ListNode? {
         return when {

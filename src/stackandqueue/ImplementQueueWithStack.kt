@@ -1,3 +1,5 @@
+package stackandqueue
+
 import java.util.*
 
 class ImplementQueueWithStack {

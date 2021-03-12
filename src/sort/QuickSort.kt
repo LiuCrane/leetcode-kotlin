@@ -1,3 +1,5 @@
+package sort
+
 class QuickSort {
     fun sort(nums : IntArray): IntArray {
         quickSort(nums, 0, nums.lastIndex)

@@ -1,3 +1,5 @@
+package sort
+
 class FindMedianSortedArrays {
     fun findMedianSortedArrays(nums1: IntArray, nums2: IntArray): Double {
         val nums = mergeTwoArrays(nums1, nums2)
